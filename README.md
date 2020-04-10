@@ -1,3 +1,5 @@
 # ionic-play
 
-## Refresher with Simon Grimm
+## Movie-Finder using OMDB API
+
+### Quick Ionic Refresher with Simon Grimm
